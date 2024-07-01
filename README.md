@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 # Frontend Mentor - Recipe page
 
-![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Recipe page coding challenge](./public/assets/design/desktop-design.jpg)
 
 ## Welcome! 👋
 
